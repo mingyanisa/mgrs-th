@@ -1,4 +1,7 @@
 ## Public MGRS code for Thailand
+---
+
+![alt text](https://raw.githubusercontent.com/mingyanisa/mgrs-th/master/mgrs-th.jpg)
 
 This repository is opensource and publicly open for anyone to contribute!
 
