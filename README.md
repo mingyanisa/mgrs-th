@@ -2,7 +2,7 @@
 
 This repository is opensource and publicly open for anyone to contribute!
 
-p.s. This mini-project is part of my work at ARV(PTTEP) and Varuna company
+p.s. This mini-project is part of my work at [ARV(PTTEP)](https://www.arv.co.th/) and [Varuna](https://www.varunatech.co/) company
 
 ### Dataset
 ---
