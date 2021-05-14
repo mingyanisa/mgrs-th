@@ -2,6 +2,7 @@
 
 This repository is opensource and publicly open for anyone to contribute!
 
+p.s. This mini-project is part of my work at ARV(PTTEP) and Varuna company
 
 ### Dataset
 ---
